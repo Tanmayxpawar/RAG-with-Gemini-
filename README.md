@@ -1,4 +1,4 @@
-# RAG-with-Gemini
+# RAG_WITH_GEMINI
 
 # 📄 Chat with PDFs using Google Gemini AI 💁‍♂️
 
